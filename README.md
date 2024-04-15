@@ -24,7 +24,7 @@ For each game, find the minimum set of cubes that must have been present. What i
 
 ## Instructions
 
-Code was programmed using Java 17.0 and IntelliJ as IDE. To run it, place your calibration document inside the "calibrationDocument" folder (a sample is provided in this repository) and then:
+Code was programmed using Java 17.0 and IntelliJ as IDE. To run it, place your input document inside the "games" folder (a sample is provided in this repository) and then:
 
 ```shellscript
 Run Application file
